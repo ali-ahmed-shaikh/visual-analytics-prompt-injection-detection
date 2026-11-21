@@ -8,7 +8,7 @@
 
 ## Abstract
 
-Prompt injection and jailbreak attacks represent critical threats to autonomous LLM agents. This paper presents a comprehensive visual analytics framework for detecting prompt injection and jailbreak attempts in agentic AI systems. The framework combines a transformer-based detection engine with interactive dashboards and analyst validation workflows, achieving 94.2% accuracy on synthesized attack scenarios.
+Agentic AI systems — autonomous large language model (LLM)-based agents with memory retention, external tool utilization, and multi-step reasoning capabilities — introduce novel security vulnerabilities distinct from traditional conversational models. Prompt injection and jailbreak attacks represent critical threats wherein adversarial inputs manipulate agent behavior, frequently circumventing existing defense mechanisms through semantic obfuscation and context exploitation. This paper presents a comprehensive visual analytics framework for detecting and analyzing prompt injection attempts in agentic systems. The proposed framework comprises three integrated components: (1) a transformer-based detection engine that identifies suspicious prompts with 94.2% accuracy, (2) an interactive visual dashboard that renders attack trajectories, adversarial fluctuation heat maps, and model behavior patterns, and (3) a human-in-the-loop validation interface enabling security analysts to investigate alerts and identify evolving attack patterns. Experimental evaluation on a synthesized dataset of 5,000 agentic interaction scenarios demonstrates detection capabilities with 94.2% accuracy, 91.7% precision, and 93.8% recall. The visualization interface achieves a System Usability Scale (SUS) score of 82.4 in analyst studies, indicating high usability. The proposed framework addresses the critical gap between opaque LLM security and interpretable analyst-driven investigation, providing actionable insights for enterprise AI security operations.
 
 **Keywords:** Agentic AI, prompt injection, jailbreak attacks, visual analytics
 
@@ -18,4 +18,4 @@ Mughal, A. H., Khan, H., Shaikh, A. A., & Sanjrani, M. (2026). Visual analytics 
 
 ## Files
 
-- `visual-analytics-prompt-injection-jailbreak-detection.pdf` — full paper (coming soon)
+- `visual-analytics-prompt-injection-jailbreak-detection.pdf` — full paper (14 pages)
