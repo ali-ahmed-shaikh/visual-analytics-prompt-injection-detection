@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this paper, please cite it as below."
+title: "Visual Analytics for Prompt Injection and Jailbreak Detection in Agentic AI Systems"
+authors:
+  - family-names: Mughal
+    given-names: Arshad Hussain
+  - family-names: Khan
+    given-names: Hira
+  - family-names: Shaikh
+    given-names: Ali Ahmed
+  - family-names: Sanjrani
+    given-names: Misha
+journal: "Spectrum of Engineering Sciences"
+volume: 4
+issue: 3
+pages: "6354-6367"
+year: 2026
+month: 3
+url: "https://www.thesesjournal.com/index.php/1/article/view/3851"
